@@ -17,7 +17,7 @@ spec:
     metadata:
       labels:
         app: nginx
-        custom:hilmi
+        custom: hilmi
     spec:
       containers:
       - name: nginx
